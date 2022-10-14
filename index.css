@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: #552583;
+    height: 100vh;
+    border: ridge 10px #FFF;
+}
+
+.container h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 34px;
+    color: #FFF;
+    text-align: center;
+}
+
+.container h2{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 40px;
+    background: #000;
+    color: #FDB927;
+    text-align: center;
+    padding: 20px ;
+    width: 100%;
+    max-width: 100px;
+}
+
+button {
+    
+}
