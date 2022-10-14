@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: space-around;
     background: #552583;
-    height: 100vh;
+    height: 400px;
     border: ridge 10px #FFF;
 }
 
